@@ -4,7 +4,7 @@ import sys
 import weather
 from PyQt5.QtWidgets import QApplication, QDialog
 import requests
-
+# 测试一下pycharm的git操作 push
 
 class MainDialog(QDialog):
     def __init__(self, parent=None):
